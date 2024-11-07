@@ -1,7 +1,7 @@
 .menu{
-    width: 100%;;
+    width: 100%;
     padding: 28px 8%;
-    top:0;
+    top: 0;
     background-color: var(--color-primary-2);
     position: sticky;
     z-index: 3;
@@ -12,9 +12,8 @@
     align-items: center;
     justify-content: space-between;
 }
-
 .nav-logo{
-    color:var(--color-primary-6);
+    color: var(--color-primary-6);
     font-size: 24px;
 }
 .nav-list{
