@@ -47,7 +47,8 @@
     align-items: center;
 }
 .banner img{
-    height:850px;
+    height:650px;
+    width: 650px;
 }
 .shape{
     background-color: var(--color-primary-3);

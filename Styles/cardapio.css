@@ -43,3 +43,18 @@
     top: -10px;
     border-radius: 0px 37.5px 0px 42.5px;
 }
+
+.fa-heart:before{
+    cursor: pointer;
+}
+
+.fa-heart:after{
+    color: red;
+    user-select: all;
+
+}
+
+.card-heart:hover{
+    color: red;
+    cursor: pointer;
+}
